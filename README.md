@@ -9,3 +9,8 @@ Se compone principalmente de 3 partes determinantes:
   * Limpieza de datos y Feature engineering
   * Análisis estadístico
   * Modelos. Pruebas y ensayos
+  
+  
+✴️ IMPORTANTE
+  
+Con el script de train.py, se puede obtener el mejor modelo desarrollado para este caso de uso. A continuación, gracias al script predict.py, se pueden sacar las  predicciones del test.
